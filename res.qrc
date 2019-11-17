@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ConwayGameRes/about.png</file>
+        <file>ConwayGameRes/clear.jpg</file>
+        <file>ConwayGameRes/FileOpenIcon.png</file>
+        <file>ConwayGameRes/hex.jpg</file>
+        <file>ConwayGameRes/newFileIcon.png</file>
+        <file>ConwayGameRes/nextStep.jpg</file>
+        <file>ConwayGameRes/replaceMode.png</file>
+        <file>ConwayGameRes/run.jpg</file>
+        <file>ConwayGameRes/saveIcon.jpg</file>
+        <file>ConwayGameRes/settingsIcon.png</file>
+        <file>ConwayGameRes/stopIcon.png</file>
+        <file>ConwayGameRes/switcher.png</file>
+        <file>ConwayGameRes/xorMode.jpg</file>
+        <file>ConwayGameRes/Изображение 004.jpg</file>
+    </qresource>
+</RCC>
